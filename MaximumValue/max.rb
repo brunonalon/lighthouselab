@@ -10,7 +10,7 @@ def maximum(arr)
   end
   maxNumber
 end
-puts "This is my app"
+puts "This is Bruno Amaral app"
 # expect it to return 42 below
 result = maximum([2, 42, 22, 02])
 puts "max of 2, 42, 22, 02 is: #{result}"
